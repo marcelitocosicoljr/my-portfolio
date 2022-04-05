@@ -18,7 +18,7 @@ function homePage() {
           Hello I am <span className="text-indigo-900">Marcelito</span>
         </h1>
         <p className="md:text-left font-normal mb-5 flex-wrap">
-          Adipisicing incididunt magna cupidatat adipisicing proident
+          "THIS IS UNDER DEVELOPMENT" Adipisicing incididunt magna cupidatat adipisicing proident
           adipisicing tempor. Irure id laboris dolor eu ea. Irure ea nisi
           laboris minim veniam Lorem magna veniam Lorem magna veniam Lorem magna. Adipisicing incididunt magna
           cupidatat adipisicing proident adipisicing tempor Aliqua ad do
