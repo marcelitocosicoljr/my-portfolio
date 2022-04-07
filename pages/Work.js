@@ -33,7 +33,7 @@ function works() {
 				</h1>
 				<div className="md:flex sm:flex-col md:flex-row justify-center items-center gap-10 mt-10">
 					<div className="rounded w-80 my-10 md:my-0 h-60 shadow-xl relative">
-						<a href="https://gratenewcastle.co.uk/" target='_blank'>
+						<a href="https://gratenewcastle.co.uk/" rel="nofollow" target='_blank'>
 						<Image
 							src={One}
 							alt="One"
@@ -44,7 +44,7 @@ function works() {
 						</a>
 					</div>
 					<div className="rounded w-80 h-60 my-10 md:my-0  shadow-xl relative">
-					<a href="https://scottbros.com/" target='_blank'>
+					<a href="https://scottbros.com/" rel="nofollow" target='_blank'>
 						<Image
 							src={Two}
 							alt="two"
@@ -55,7 +55,7 @@ function works() {
 						</a>
 					</div>
 					<div className="rounded w-80 h-60 my-10 md:my-0 shadow-xl relative">
-						<a href="http://82.165.151.114/dev/newhousination" target='_blank'>
+						<a href="http://82.165.151.114/dev/newhousination" rel="nofollow" target='_blank'>
 						<Image
 							src={Three}
 							alt="three"
@@ -68,7 +68,7 @@ function works() {
 				</div>
 				<div className="md:flex sm:flex-col md:flex-row justify-center items-start sm:pb-10 md:gap-10 md:mt-10">
 					<div className="rounded w-80 h-60 my-10 md:my-0 shadow-xl relative">
-						<a href="https://thisislivingcompetitions.com/" target='_blank'>
+						<a href="https://thisislivingcompetitions.com/" rel="nofollow" target='_blank'>
 						<Image
 							src={Four}
 							alt="four"
@@ -79,7 +79,7 @@ function works() {
 						</a>
 					</div>
 					<div className="rounded w-80 h-60 my-10 md:my-0 shadow-xl relative">
-						<a href="https://australiaworkers.com/" target='_blank'>
+						<a href="https://australiaworkers.com/" rel="nofollow" target='_blank'>
 						<Image
 							src={Five}
 							alt="five"
@@ -90,7 +90,7 @@ function works() {
 						</a>
 					</div>
 					<div className="rounded w-80 h-60 my-10 md:my-0 shadow-xl relative">
-						<a href="https://nextgensportscamps.co.uk/" target='_blank'>
+						<a href="https://nextgensportscamps.co.uk/" rel="nofollow" target='_blank'>
 						<Image
 							src={Six}
 							alt="six"
@@ -104,7 +104,7 @@ function works() {
 				</div>
 				<div className="md:flex sm:flex-col md:flex-row justify-center items-center gap-10 mt-10">
 					<div className="rounded w-80 my-10 md:my-0 h-60 shadow-xl relative">
-						<a href="https://babylondurham.com/" target='_blank'>
+						<a href="https://babylondurham.com/" rel="nofollow" target='_blank'>
 						<Image
 							src={Seven}
 							alt="One"
@@ -115,7 +115,7 @@ function works() {
 						</a>
 					</div>
 					<div className="rounded w-80 h-60 my-10 md:my-0  shadow-xl relative">
-						<a href="http://82.165.151.114/dev/basilico/" target='_blank'>
+						<a href="http://82.165.151.114/dev/basilico/" rel="nofollow" target='_blank'>
 						<Image
 							src={Eight}
 							alt="two"
@@ -126,7 +126,7 @@ function works() {
 						</a>
 					</div>
 					<div className="rounded w-80 h-60 my-10 md:my-0 shadow-xl relative">
-						<a href="https://carwangallery.com/" target='_blank'>
+						<a href="https://carwangallery.com/" rel="nofollow" target='_blank'>
 						<Image
 							src={Nine}
 							alt="three"
@@ -139,7 +139,7 @@ function works() {
 				</div>
 				<div className="md:flex sm:flex-col md:flex-row justify-center items-center gap-10 mt-10">
 					<div className="rounded w-80 my-10 md:my-0 h-60 shadow-xl relative">
-						<a href="http://82.165.151.114/dev/remora/about/" target='_blank'>
+						<a href="http://82.165.151.114/dev/remora/about/" rel="nofollow" target='_blank'>
 						<Image
 							src={Ten}
 							alt="One"
@@ -150,7 +150,7 @@ function works() {
 						</a>
 					</div>
 					<div className="rounded w-80 h-60 my-10 md:my-0  shadow-xl relative">
-						<a href="https://www.wilderevents.co.uk/" target='_blank'>
+						<a href="https://www.wilderevents.co.uk/" rel="nofollow" target='_blank'>
 						<Image
 							src={Eleven}
 							alt="two"
@@ -161,7 +161,7 @@ function works() {
 						</a>
 					</div>
 					<div className="rounded w-80 h-60 my-10 md:my-0 shadow-xl relative">
-						<a href="https://ghb2.midassites.co.uk/" target='_blank'>
+						<a href="https://ghb2.midassites.co.uk/" rel="nofollow" target='_blank'>
 						<Image
 							src={Twelve}
 							alt="three"
@@ -174,7 +174,7 @@ function works() {
 				</div>
 				<div className="md:flex sm:flex-col md:flex-row justify-center items-center gap-10 mt-10">
 					<div className="rounded w-80 my-10 md:my-0 h-60 shadow-xl relative">
-						<a href="https://staging2.superstardjgame.com/" target='_blank'>
+						<a href="https://staging2.superstardjgame.com/" rel="nofollow" target='_blank'>
 						<Image
 							src={Thirteen}
 							alt="One"
@@ -185,7 +185,7 @@ function works() {
 						</a>
 					</div>
 					<div className="rounded w-80 h-60 my-10 md:my-0  shadow-xl relative">
-						<a href="https://loftdurham.co.uk/" target='_blank'>
+						<a href="https://loftdurham.co.uk/" rel="nofollow" target='_blank'>
 						<Image
 							src={Fourteen}
 							alt="two"
@@ -196,7 +196,7 @@ function works() {
 						</a>
 					</div>
 					<div className="rounded w-80 h-60 my-10 md:my-0 shadow-xl relative">
-						<a href="http://orizonliving.co.uk/" target='_blank'>
+						<a href="http://orizonliving.co.uk/" rel="nofollow" target='_blank'>
 						<Image
 							src={Fifteen}
 							alt="three"
@@ -210,7 +210,7 @@ function works() {
 				<div className="md:flex sm:flex-col md:flex-row justify-center items-center gap-10 mt-10">
 					<div className="rounded w-80 my-10 md:my-0 h-96 shadow-xl relative">
 					
-						<a href="https://www.youtube.com/watch?v=0y9aTp9tXuY" target='_blank'>
+						<a href="https://www.youtube.com/watch?v=0y9aTp9tXuY"  rel="nofollow" target='_blank'>
 						<Image
 							src={App1}
 							alt="One"
