@@ -18,11 +18,19 @@ function homePage() {
           Hello I am <span className="text-indigo-900">Marcelito</span>
         </h1>
         <p className="md:text-left font-normal mb-5 flex-wrap">
+<<<<<<< HEAD
           A passionate simple person in making web/mobile applications using most useful 
           tech stacks that will be fit to the clients wanted output. 
           Experienced in making website and mobile app using HTML, CSS, JAVASCRIPT,AJAX, PHP, 
           WORDPRESS, REACT, NEXTJS, NODEJS, LARAVEL, TAILWINDCSS and MUI for website development 
           and REACT NATIVE for mobile app development and experienced using MYSQL, MONGODB and FIREBASE.
+=======
+          "THIS IS UNDER DEVELOPMENT" Adipisicing incididunt magna cupidatat adipisicing proident
+          adipisicing tempor. Irure id laboris dolor eu ea. Irure ea nisi
+          laboris minim veniam Lorem magna veniam Lorem magna veniam Lorem magna. Adipisicing incididunt magna
+          cupidatat adipisicing proident adipisicing tempor Aliqua ad do
+          reprehenderit mollit cupidatat ad do reprehenderit. 
+>>>>>>> 5059fedcf0d93ae3873add25d1bf301fba901fd1
         </p>
         
         <a
