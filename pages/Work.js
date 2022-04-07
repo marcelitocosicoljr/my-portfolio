@@ -32,7 +32,7 @@ function works() {
 					All Creative Works
 				</h1>
 				<div className="md:flex sm:flex-col md:flex-row justify-center items-center gap-10 mt-10">
-					<div className="rounded w-80 my-10 md:my-0 h-60 shadow-xl relative">
+					<div className="rounded w-80 my-10 md:my-0 h-60 shadow-xl relative hover:scale-110 transition   duration-300 ">
 						<a href="https://gratenewcastle.co.uk/" rel="noopener noreferrer" target='_blank'>
 						<Image
 							src={One}
@@ -43,7 +43,7 @@ function works() {
 						/>
 						</a>
 					</div>
-					<div className="rounded w-80 h-60 my-10 md:my-0  shadow-xl relative">
+					<div className="rounded w-80 h-60 my-10 md:my-0  shadow-xl relative hover:scale-110 transition   duration-300">
 					<a href="https://scottbros.com/" rel="noopener noreferrer" target='_blank'>
 						<Image
 							src={Two}
@@ -54,7 +54,7 @@ function works() {
 						/>
 						</a>
 					</div>
-					<div className="rounded w-80 h-60 my-10 md:my-0 shadow-xl relative">
+					<div className="rounded w-80 h-60 my-10 md:my-0 shadow-xl relative hover:scale-110 transition   duration-300">
 						<a href="http://82.165.151.114/dev/newhousination"  rel="noopener noreferrer" target='_blank'>
 						<Image
 							src={Three}
@@ -67,7 +67,7 @@ function works() {
 					</div>
 				</div>
 				<div className="md:flex sm:flex-col md:flex-row justify-center items-start sm:pb-10 md:gap-10 md:mt-10">
-					<div className="rounded w-80 h-60 my-10 md:my-0 shadow-xl relative">
+					<div className="rounded w-80 h-60 my-10 md:my-0 shadow-xl relative hover:scale-110 transition   duration-300">
 						<a href="https://thisislivingcompetitions.com/"  rel="noopener noreferrer" target='_blank'>
 						<Image
 							src={Four}
@@ -78,7 +78,7 @@ function works() {
 						/>
 						</a>
 					</div>
-					<div className="rounded w-80 h-60 my-10 md:my-0 shadow-xl relative">
+					<div className="rounded w-80 h-60 my-10 md:my-0 shadow-xl relative hover:scale-110 transition   duration-300">
 						<a href="https://australiaworkers.com/"  rel="noopener noreferrer" target='_blank'>
 						<Image
 							src={Five}
@@ -89,7 +89,7 @@ function works() {
 						/>
 						</a>
 					</div>
-					<div className="rounded w-80 h-60 my-10 md:my-0 shadow-xl relative">
+					<div className="rounded w-80 h-60 my-10 md:my-0 shadow-xl relative hover:scale-110 transition   duration-300">
 						<a href="https://nextgensportscamps.co.uk/"  rel="noopener noreferrer" target='_blank'>
 						<Image
 							src={Six}
@@ -103,7 +103,7 @@ function works() {
 					
 				</div>
 				<div className="md:flex sm:flex-col md:flex-row justify-center items-center gap-10 mt-10">
-					<div className="rounded w-80 my-10 md:my-0 h-60 shadow-xl relative">
+					<div className="rounded w-80 my-10 md:my-0 h-60 shadow-xl relative hover:scale-110 transition   duration-300">
 						<a href="https://babylondurham.com/"  rel="noopener noreferrer" target='_blank'>
 						<Image
 							src={Seven}
@@ -114,7 +114,7 @@ function works() {
 						/>
 						</a>
 					</div>
-					<div className="rounded w-80 h-60 my-10 md:my-0  shadow-xl relative">
+					<div className="rounded w-80 h-60 my-10 md:my-0  shadow-xl relative hover:scale-110 transition   duration-300">
 						<a href="http://82.165.151.114/dev/basilico/"  rel="noopener noreferrer" target='_blank'>
 						<Image
 							src={Eight}
@@ -125,7 +125,7 @@ function works() {
 						/>
 						</a>
 					</div>
-					<div className="rounded w-80 h-60 my-10 md:my-0 shadow-xl relative">
+					<div className="rounded w-80 h-60 my-10 md:my-0 shadow-xl relative hover:scale-110 transition   duration-300">
 						<a href="https://carwangallery.com/"  rel="noopener noreferrer" target='_blank'>
 						<Image
 							src={Nine}
@@ -138,7 +138,7 @@ function works() {
 					</div>
 				</div>
 				<div className="md:flex sm:flex-col md:flex-row justify-center items-center gap-10 mt-10">
-					<div className="rounded w-80 my-10 md:my-0 h-60 shadow-xl relative">
+					<div className="rounded w-80 my-10 md:my-0 h-60 shadow-xl relative hover:scale-110 transition   duration-300">
 						<a href="http://82.165.151.114/dev/remora/about/"  rel="noopener noreferrer" target='_blank'>
 						<Image
 							src={Ten}
@@ -149,7 +149,7 @@ function works() {
 						/>
 						</a>
 					</div>
-					<div className="rounded w-80 h-60 my-10 md:my-0  shadow-xl relative">
+					<div className="rounded w-80 h-60 my-10 md:my-0  shadow-xl relative hover:scale-110 transition   duration-300">
 						<a href="https://www.wilderevents.co.uk/"  rel="noopener noreferrer" target='_blank'>
 						<Image
 							src={Eleven}
@@ -160,7 +160,7 @@ function works() {
 						/>
 						</a>
 					</div>
-					<div className="rounded w-80 h-60 my-10 md:my-0 shadow-xl relative">
+					<div className="rounded w-80 h-60 my-10 md:my-0 shadow-xl relative hover:scale-110 transition   duration-300">
 						<a href="https://ghb2.midassites.co.uk/"  rel="noopener noreferrer" target='_blank'>
 						<Image
 							src={Twelve}
@@ -173,7 +173,7 @@ function works() {
 					</div>
 				</div>
 				<div className="md:flex sm:flex-col md:flex-row justify-center items-center gap-10 mt-10">
-					<div className="rounded w-80 my-10 md:my-0 h-60 shadow-xl relative">
+					<div className="rounded w-80 my-10 md:my-0 h-60 shadow-xl relative hover:scale-110 transition   duration-300">
 						<a href="https://staging2.superstardjgame.com/"  rel="noopener noreferrer" target='_blank'>
 						<Image
 							src={Thirteen}
@@ -184,7 +184,7 @@ function works() {
 						/>
 						</a>
 					</div>
-					<div className="rounded w-80 h-60 my-10 md:my-0  shadow-xl relative">
+					<div className="rounded w-80 h-60 my-10 md:my-0  shadow-xl relative hover:scale-110 transition   duration-300">
 						<a href="https://loftdurham.co.uk/"  rel="noopener noreferrer" target='_blank'>
 						<Image
 							src={Fourteen}
@@ -195,7 +195,7 @@ function works() {
 						/>
 						</a>
 					</div>
-					<div className="rounded w-80 h-60 my-10 md:my-0 shadow-xl relative">
+					<div className="rounded w-80 h-60 my-10 md:my-0 shadow-xl relative hover:scale-110 transition   duration-300">
 						<a href="http://orizonliving.co.uk/"  rel="noopener noreferrer" target='_blank'>
 						<Image
 							src={Fifteen}
@@ -208,7 +208,7 @@ function works() {
 					</div>
 				</div>
 				<div className="md:flex sm:flex-col md:flex-row justify-center items-center gap-10 mt-10">
-					<div className="rounded w-80 my-10 md:my-0 h-96 shadow-xl relative">
+					<div className="rounded w-80 my-10 md:my-0 h-96 shadow-xl relative hover:scale-110 transition   duration-300">
 					
 						<a href="https://www.youtube.com/watch?v=0y9aTp9tXuY"   rel="noopener noreferrer" target='_blank'>
 						<Image
@@ -220,7 +220,7 @@ function works() {
 						/>
 						</a>
 					</div>
-					<div className="rounded w-80 h-96 my-10 md:my-0  shadow-xl relative">
+					<div className="rounded w-80 h-96 my-10 md:my-0  shadow-xl relative hover:scale-110 transition   duration-300">
 						<Image
 							src={App2}
 							alt="two"
@@ -229,7 +229,7 @@ function works() {
 							className="p-2 rounded cursor-pointer"
 						/>
 					</div>
-					<div className="rounded w-80 h-96 my-10 md:my-0 shadow-xl relative">
+					<div className="rounded w-80 h-96 my-10 md:my-0 shadow-xl relative hover:scale-110 transition   duration-300">
 						<Image
 							src={App2a}
 							alt="three"
