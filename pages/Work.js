@@ -246,7 +246,7 @@ function works() {
 
 				<h1 className="text-blue-900 text-base my-10">
 					Discover all projects here on{" "}
-					<a href="#" className="text-black font-semibold">
+					<a href="#" className="text-black  font-semibold">
 						MyPortfolio{" "}
 					</a>
 				</h1>
