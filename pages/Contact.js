@@ -6,7 +6,7 @@ function contact() {
 			<div>
 				<div className="w-full my-20 h-auto flex flex-col justify-center items-center">
 					<p className="text-sm uppercase text-gray-400">Contact</p>
-					<h1 className="text-indigo-900 text-6xl font-bold text-center">
+					<h1 className="text-indigo-900 text-4xl md:text-6xl font-bold text-center">
 						Contact
 					</h1>
 

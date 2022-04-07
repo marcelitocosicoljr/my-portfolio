@@ -17,10 +17,10 @@ export default function Home() {
       </Head>
       <Navbar />
       <HomePage/>
-      <Services/>
+      {/* <Services/> */}
       <Works/>
-      <Clients/>
-      <Contact/>
+      {/* <Clients/> */}
+      {/* <Contact/> */}
       <Footer/>
     </div>
   )
